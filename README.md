@@ -5,7 +5,18 @@
 - **Symeon Papadopoulos** - [Email](mailto:spapadopoulos@ihu.edu.gr)
 
 ## Abstract
-This repository encompasses a study on the detection of pneumonia in chest X-ray images, utilizing machine learning and specifically, three different approaches: a custom 15-layer CNN model, the VGG19 pretrained model, and an ensemble model.
+This report presents a study concerning the detection of pneumonia in chest x-ray images with the use of machine learning. In particular, three different approaches are analyzed, a custom 15-layer CNN model, the VGG19 pretrained model and an ensemble model consisting of the aforementioned custom CNN model and the VGG19 and Xception pretrained models. The data that are used come from the Detect Pneumonia (Spring 2023) dataset of the respective Kaggle competition. In the current study, a tuning approach is used in order to improve the results of each model. In addition, the results of the three models are visually depicted with the use of diagrams and a comparison among the three cases is conducted. Finally, the conclusions of the study are presented.
+
+## Detailed Project Files <a name="detailed-project-files"></a>
+
+For a deep dive into the methodologies, analyses, and results, please refer to the detailed project documents available in this repository:
+
+- **PDF Document:** For a comprehensive report on the project, including detailed explanations and visualizations, please check the `[Your_PDF_Name].pdf` file located in the `[Folder_Name]` folder. Direct link: `[Link_to_PDF]`.
+
+- **Jupyter Notebook:** For code, visualizations, and detailed commentary on the development and evaluation of the models, please refer to the Jupyter notebook. It can be found in the `[Folder_Name]` folder with the name `[Your_Notebook_Name].ipynb`. Direct link: `[Link_to_Notebook]`.
+
+**Note:** If viewing the Jupyter notebook on GitHub, please allow a moment for the render to complete. If you experience issues with rendering the notebook, you may view it using [nbviewer](https://nbviewer.jupyter.org/) by pasting the notebook’s GitHub link there.
+
 
 ### Keywords
 CNN, Pneumonia, Pretrained Model, Classification, Ensemble
