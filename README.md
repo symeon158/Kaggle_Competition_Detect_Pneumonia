@@ -1,8 +1,8 @@
 # Detection of Pneumonia in Chest X-ray Images using Neural Networks
 
 ## Authors
-- **Savvas Nikolaidis** - [Email](mailto:snikolaidis@ihu.edu.gr)
-- **Symeon Papadopoulos** - [Email](mailto:spapadopoulos@ihu.edu.gr)
+- **Nikolaidis** - [Email](mailto:snikolaidis@ihu.edu.gr)
+- **Papadopoulos** - [Email](mailto:spapadopoulos@ihu.edu.gr)
 
 ## Abstract
 This report presents a study concerning the detection of pneumonia in chest x-ray images with the use of machine learning. In particular, three different approaches are analyzed, a custom 15-layer CNN model, the VGG19 pretrained model and an ensemble model consisting of the aforementioned custom CNN model and the VGG19 and Xception pretrained models. The data that are used come from the Detect Pneumonia (Spring 2023) dataset of the respective Kaggle competition. In the current study, a tuning approach is used in order to improve the results of each model. In addition, the results of the three models are visually depicted with the use of diagrams and a comparison among the three cases is conducted. Finally, the conclusions of the study are presented.
