@@ -13,7 +13,7 @@ For a deep dive into the methodologies, analyses, and results, please refer to t
 
 - **PDF Document:** For a comprehensive report on the project, including detailed explanations and visualizations, please check the `[Nikolaidis_Papadopoulos_report].pdf` file located in the `[kaggle competition]` folder. Direct link: `(https://github.com/symeon158/Kaggle_Competition_Detect_Pneumonia/blob/main/kaggle%20competition/Nikolaidis_Papadopoulos_report.pdf).
 
-- **Jupyter Notebook:** For code, visualizations, and detailed commentary on the development and evaluation of the models, please refer to the Jupyter notebook. It can be found in the `[kaggle competition]` folder with the name `[Kaggle_Nikolaidis_Papadopoulos_ensemble_VGG_15L_CNN].ipynb`. Direct link: `(https://github.com/symeon158/Kaggle_Competition_Detect_Pneumonia/blob/main/kaggle%20competition/Kaggle_Nikolaidis_Papadopoulos_ensemble_VGG_15L_CNN.ipynb).
+- **Jupyter Notebook:** For code, visualizations, and detailed commentary on the development and evaluation of the models, please refer to the Jupyter notebook. It can be found in the `[kaggle competition]` folder with the name `[Kaggle_Nikolaidis_Papadopoulos_ensemble_VGG_15L_CNN].ipynb`. Direct link: `(https://github.com/symeon158/Kaggle_Competition_Detect_Pneumonia/blob/main/kaggle%20competition/Kaggle_Nikolaidis_Papadopoulos_ensemble_VGG_15L_CNN.ipynb)
 
 **Note:** If viewing the Jupyter notebook on GitHub, please allow a moment for the render to complete. If you experience issues with rendering the notebook, you may view it using [nbviewer](https://nbviewer.jupyter.org/) by pasting the notebook’s GitHub link there.
 
